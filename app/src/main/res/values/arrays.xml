@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text">
+        <item>二次元图片</item>
+        <item>三次元图片</item>
+        <item>汽车图片</item>
+        <item>美女图片</item>
+        <item>风景图片</item>
+        <item>表情包</item>
+
+    </string-array>
+    <string-array name="images">
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_4</item>
+        <item>@drawable/img_5</item>
+        <item>@drawable/img_6</item>
+    </string-array>
+
+    <string-array name="author">
+        <item>我嫩叠</item>
+        <item>我嫩叠</item>
+        <item>我嫩叠</item>
+        <item>我嫩叠</item>
+        <item>我嫩叠</item>
+        <item>我嫩叠</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>两只老虎</item>
+        <item>两只老虎</item>
+        <item>两只老虎</item>
+        <item>两只老虎</item>
+        <item>两只老虎</item>
+        <item>两只老虎</item>
+    </string-array>
+
+    <string-array name="uri">
+        <item>https://api.vvhan.com/api/acgimg?type=json</item>
+        <item>https://www.dmoe.cc/random.php?return=json</item>
+        <item>https://www.rrll.cc/tuceng/ecy.php?return=json</item>
+    </string-array>
+
+</resources>
